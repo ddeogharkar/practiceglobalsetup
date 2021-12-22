@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "_device_id",
+      "value": "3696864a927e6a87e2aa14132947c610",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1671694062.05236,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_octo",
+      "value": "GH1.1.1108361498.1640158061",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1671694062.052472,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "logged_in",
+      "value": "no",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1671694062.052495,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gh_sess",
+      "value": "dAURZ4Epq1ftzSvqC2654dYDwc50q35u2QATNQOo%2B%2BmJM0Dn4MPdYlRNoiXNFKQy3hhKFj0cPPC5ebLZ6EKh8f54LU%2FUhiJMGS6hHEC9KRU2UVcmOjKuPCJcKCIITRdom7Ti%2BdB8u0Q4vRZFRqKBAxB642QUkh0zZb%2FKyX9sGuK1fenIN3v3%2BaeI%2BdrYz5MTjTKw3moRsnZZx%2FYP0%2BspJSt%2BRAWYxh5AtzAeE0cNAa2AXC4oO%2FwF1OUTrWhKRbZaO7kR1OlFuJy4GDs71u%2FI%2FA%3D%3D--AqUGBUL%2FCDGEgrPv--n3ZeVe6OKbiBcNgoXJAcKA%3D%3D",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "tz",
+      "value": "Asia%2FCalcutta",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://github.com",
+      "localStorage": [
+        {
+          "name": "bundle-urls",
+          "value": "{\"environment.js\":\"https://github.githubassets.com/assets/environment-2bf92300.js\",\"chunk-frameworks.js\":\"https://github.githubassets.com/assets/chunk-frameworks-d50cea30.js\",\"chunk-vendor.js\":\"https://github.githubassets.com/assets/chunk-vendor-542a6b40.js\",\"behaviors.js\":\"https://github.githubassets.com/assets/behaviors-192ecb66.js\",\"chunk-edit.js\":\"https://github.githubassets.com/assets/chunk-edit-ca75799c.js\",\"chunk-responsive-underlinenav.js\":\"https://github.githubassets.com/assets/chunk-responsive-underlinenav-cc5c3cdc.js\",\"chunk-tag-input.js\":\"https://github.githubassets.com/assets/chunk-tag-input-826c3ba1.js\",\"chunk-notification-list-focus.js\":\"https://github.githubassets.com/assets/chunk-notification-list-focus-028f6594.js\",\"chunk-cookies.js\":\"https://github.githubassets.com/assets/chunk-cookies-48f59dde.js\",\"chunk-premium-runners.js\":\"https://github.githubassets.com/assets/chunk-premium-runners-b70f5202.js\",\"chunk-color-modes.js\":\"https://github.githubassets.com/assets/chunk-color-modes-c614803b.js\",\"chunk-invitations.js\":\"https://github.githubassets.com/assets/chunk-invitations-c66c0a96.js\",\"chunk-profile.js\":\"https://github.githubassets.com/assets/chunk-profile-bc547e22.js\",\"chunk-overview.js\":\"https://github.githubassets.com/assets/chunk-overview-5b74c5ad.js\",\"chunk-runner-groups.js\":\"https://github.githubassets.com/assets/chunk-runner-groups-e9199dd0.js\",\"unsupported.js\":\"https://github.githubassets.com/assets/unsupported-6ec815c8.js\",\"settings.js\":\"https://github.githubassets.com/assets/settings-439e6110.js\",\"sessions.js\":\"https://github.githubassets.com/assets/sessions-b61e565d.js\",\"light.css\":\"https://github.githubassets.com/assets/light-13dc275a3a314268790358e25956033c.css\",\"dark.css\":\"https://github.githubassets.com/assets/dark-9d84afdcaac584c9465298e415004b30.css\",\"frameworks.css\":\"https://github.githubassets.com/assets/frameworks-cf0ecb10a258465cbae6d92808737d10.css\",\"behaviors.css\":\"https://github.githubassets.com/assets/behaviors-dd43c43bab695ef6c5c36dee804e1817.css\",\"tab-size-fix.css\":\"https://github.githubassets.com/assets/tab-size-fix-30224561f6d0a13e045c2e9a5b1e5682.css\",\"github.css\":\"https://github.githubassets.com/assets/github-6430a86b7b4fa02482923a1cda3be7a5.css\"}"
+        }
+      ]
+    }
+  ]
+}
